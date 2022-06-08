@@ -1,6 +1,16 @@
 # Crime of 3 Cities Analysis
 
-## Prerequisites
+## Prerequisites / Installs
+
+Data Setup:
+
+To download the data, first use the CSV_Data_Download.ipynb file. This file utilizes the Selenium type library to webscrape data and download the CSV files. 
+In order for below to work download Chrome onto your machine. Once in Chrome check the version of Chrome you are on.  You can check the version by copying and pasting the below line into Chrome:
+chrome://settings/help
+
+Next, download chromedriver from the link below for the version of Chrome you are using:
+https://chromedriver.chromium.org/downloads
+and place the chromdriver.exe file into the  Project1 folder that is from the repository when you download
 
 Installs You May Need (if not installed already)
 Run the following in terminal:
@@ -8,8 +18,6 @@ Run the following in terminal:
 pip install jupyter-dash
 
 Ensure you have all 3 data sets in the Data folder as well as the Chicago Population CSV file
-
-
 
 ## Project Links for Data Sets
 ## City Links
