@@ -1,4 +1,17 @@
-# Project Links for Data Sets
+# Crime of 3 Cities Analysis
+
+## Prerequisites
+
+Installs You May Need (if not installed already)
+Run the following in terminal:
+
+pip install jupyter-dash
+
+Ensure you have all 3 data sets in the Data folder as well as the Chicago Population CSV file
+
+
+
+## Project Links for Data Sets
 ## City Links
 ## San Francisco
 [San Francisco](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783)
